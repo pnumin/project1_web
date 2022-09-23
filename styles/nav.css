@@ -1,0 +1,16 @@
+nav a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+}
+
+nav a:hover {
+  background-color:#FFF5E4 ;
+  color: #850E35;
+}
+
+nav li {
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
